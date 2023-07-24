@@ -16,6 +16,6 @@
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![POWER BI](https://realedados.com.br/wp-content/uploads/2022/08/power-bi-300x300.jpg)
+<img src="[imagem.jpg](https://cetax.com.br/wp-content/uploads/2016/10/PowerBI-e1557666264791.jpg)" width="20" height="20" />
 
 Apaixonada por tecnologia, educação e por mudar a vida das pessoas através da programação
