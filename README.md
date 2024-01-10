@@ -1,7 +1,7 @@
 ### Olá, eu sou a Rafaela Souza!👋
 
 - 👩‍💻 Hoje trabalho na parte Administrativa, como BackOffice para a equipe técnica da TK ELEVATOR
-- 🌱 Estudando Programação e Análise de Dados 
+- 🌱 Estudando Programação Front End 
 - 😄 Pronouns: ela/dela 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaela-souza-da-silva-78438822b/)
@@ -13,10 +13,11 @@
 
 ## Estudando neste momento
 
-- Javascript
 - HTML
 - CSS
-- Power Bi
+- Javascript
+- Angular
+
 
 
 Apaixonada por tecnologia, educação e por mudar a vida das pessoas através de insights.
