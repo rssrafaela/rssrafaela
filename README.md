@@ -1,6 +1,7 @@
 ### Olá, eu sou a Rafaela Souza!👋
 
 - 👩‍💻 Hoje trabalho na parte Administrativa, como BackOffice para a equipe técnica da TK ELEVATOR
+- ⭐ Graduanda em Análise e Desenvolvimento de Sistemas na Infnet
 - 🌱 Estudando Programação Front End 
 - 😄 Pronouns: ela/dela 
 
