@@ -17,7 +17,7 @@
 - HTML
 - CSS
 - Javascript
-- Angular
+
 
 
 
