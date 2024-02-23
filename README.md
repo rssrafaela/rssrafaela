@@ -2,7 +2,7 @@
 
 - 👩‍💻 Hoje trabalho na parte Administrativa, como BackOffice para a equipe técnica da TK ELEVATOR
 - ⭐ Graduanda em Análise e Desenvolvimento de Sistemas na Infnet
-- 🌱 Estudando Programação Front End 
+- 🌱 Estudando Programação  
 - 😄 Pronouns: ela/dela 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaela-souza-da-silva-78438822b/)
