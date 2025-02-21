@@ -12,12 +12,16 @@
 
 ![rssrafaela GitHub stats](https://github-readme-stats.vercel.app/api?username=rssrafaela&show_icons=true&theme=radical)
 
-## Estudando neste momento
+## Algumas Skills:
 
 - HTML
 - CSS
 - Javascript
-
+- Python
+- SQL
+- C#
+- Java
+- Golang
 
 
 
